@@ -1,2 +1,1 @@
-# Git Practice
-Gioi thieu :Toi la <DOoan Thi Huyen Anh>, MSSV <220828>.
+Đây là README từ nhánh conflict-demo.
